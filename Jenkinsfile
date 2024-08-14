@@ -37,11 +37,9 @@ pipeline{
             steps{
                 script{
                     dir('deployment'){
-                        sh '
-                           terraform init
-                           terraform plan
-                           terraform apply
-                        '
+                        sh 'terraform init'
+                        sh 'terraform plan'
+                        sh 'terraform apply'
                     }
                 }
             }
