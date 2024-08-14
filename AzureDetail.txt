@@ -1,0 +1,24 @@
+    "cloudName": "AzureCloud",
+    "homeTenantId": "c2df2d39-99f7-4d84-826a-61316ee7c669",
+    "id": "c4a1381e-caba-4fc4-8de6-51d1e4be2eda",
+    "tenantId": "c2df2d39-99f7-4d84-826a-61316ee7c669"
+
+
+AWS instance Details: 
+
+VPC:
+   "SubnetId": "subnet-0f3201e4ed9163b4a",
+   "VpcId": "vpc-06c9cac23dccea941"
+
+Ami:
+    "AmiLaunchIndex": 0,
+    "ImageId": "ami-0ad21ae1d0696ad58",
+    "InstanceId": "i-0aa2470f26f25ad1a",
+    "InstanceType": "t2.micro",
+    "KeyName": "Devops"
+
+Security Group:
+    "GroupName": "launch-wizard-1",
+    "GroupId": "sg-083c356ee363cb012"
+
+    
